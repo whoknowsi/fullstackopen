@@ -4,4 +4,8 @@
 
 ```
 part0
+part1
+    anecdotes
+    courseinfo
+    unicafe
 ```
